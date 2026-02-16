@@ -1,5 +1,13 @@
 window.videoData = [
   {
+    "date": "2026-02-16T11:40:46Z",
+    "description": "",
+    "id": "7978e86d-9636-413e-aabb-e5269c2a42ab",
+    "playlist": "videos/7978e86d-9636-413e-aabb-e5269c2a42ab/playlist.m3u8",
+    "thumbnail": "videos/7978e86d-9636-413e-aabb-e5269c2a42ab/thumb.jpg",
+    "title": "SVID_20260216_142658_1"
+  },
+  {
     "date": "2026-02-16T11:40:43Z",
     "description": "",
     "id": "9423483a-0a24-408b-b157-3ab4d5714b5b",
